@@ -25,7 +25,7 @@ SECRET_KEY = 'ucpr&n1^h7k-sl9&@0sfqoiheo6ugipreet+v5*3$$sci-f_kk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<Abhigyan>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'abhigyan.pythonanywhere.com']
 
 
 # Application definition
